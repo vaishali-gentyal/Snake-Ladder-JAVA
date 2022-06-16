@@ -7,5 +7,6 @@
 </ol>
 
 <div>
-  <img src="Snake.jpg" alt="Snake Ladder Output Image"/>
+  <img src="snakeOP2.png" alt="Snake Ladder Output Image"/>
+  <img src="snakeOP1.png" alt="Snake Ladder Output Image"/>
 </div>
