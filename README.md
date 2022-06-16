@@ -8,5 +8,6 @@
 
 <div>
   <img src="snakeOP2.png" alt="Snake Ladder Output Image"/>
+  <br><br>
   <img src="snakeOP1.png" alt="Snake Ladder Output Image"/>
 </div>
